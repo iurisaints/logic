@@ -47,8 +47,8 @@ Aqui estão cinco questões iniciais para praticar lógica com JavaScript:
 
 **Questão 3:** Crie um programa que calcule o fatorial de um número. O fatorial de 5, por exemplo, é 5 x 4 x 3 x 2 x 1 = 120.
 
-**Questão 4:** Crie um programa que peça ao usuário para digitar sua idade e, com base nessa idade, diga se ele é maior ou menor de idade.
+**Questão 4:** Crie um programa que peça ao usuário para digitar sua idade e, com base nessa idade, diga se ele é maior ou menor de idade. (Dica: use o IF e ELSE)
 
-**Questão 5:** Crie um programa que solicite ao usuário um número e determine se é um número primo ou não. Um número primo é aquele que só é divisível por 1 e por ele mesmo.
+**Questão 5:** Crie um programa que solicite ao usuário um número e determine se é um número primo ou não. Um número primo é aquele que só é divisível por 1 e por ele mesmo.(Dica: use o operador MOD que é o %)
 
 Lembre-se de usar o `readline-sync` para obter entradas do usuário nas questões. Isso ajudará a praticar a entrada, processamento e saída de dados em JavaScript.
