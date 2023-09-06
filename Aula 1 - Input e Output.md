@@ -2,7 +2,7 @@
 
 A lógica de programação é como ensinar um computador a seguir um conjunto de instruções para resolver problemas. Imagine que você está dando direções a um robô para fazer um sanduíche. Você precisa dar instruções claras e em ordem para que o robô possa fazer o sanduíche corretamente.
 
-**1. Entrada, Processamento e Saída:**
+**1 - Entrada, Processamento e Saída:**
 
 - **Entrada:** Isso é como você dá as informações ao seu programa. Pode ser algo que você digita, informações de um arquivo ou até mesmo dados de sensores. Por exemplo, se você está fazendo um programa para calcular a média de notas, as notas seriam a entrada.
 
@@ -10,7 +10,94 @@ A lógica de programação é como ensinar um computador a seguir um conjunto de
 
 - **Saída:** É o resultado que seu programa fornece após o processamento. Pode ser uma resposta exibida na tela, um arquivo gerado, ou qualquer outra forma de apresentar as informações processadas. No caso da média, a saída seria o valor da média exibido na tela.
 
-**2. O readline-sync em JavaScript:**
+# 2 - Variáveis em JavaScript
+
+Em JavaScript, variáveis são usadas para armazenar e manipular dados. Elas são como "recipientes" que você pode usar para guardar informações. As variáveis têm diferentes tipos e podem ser declaradas de várias maneiras.
+
+## Declarando Variáveis
+
+Você pode declarar uma variável em JavaScript usando as palavras-chave `var`, `let` ou `const`. Aqui estão as principais diferenças entre elas:
+
+### `var`
+
+`var` era a forma antiga de declarar variáveis, mas não é muito usada atualmente. As variáveis declaradas com `var` são "elevadas" (hoisting), o que significa que são movidas para o topo do escopo em que foram declaradas. Isso pode levar a comportamentos inesperados.
+
+```javascript
+var idade = 25;
+```
+
+### `let`
+
+`let` é a forma moderna de declarar variáveis e é mais preferível. As variáveis declaradas com `let` têm escopo de bloco, o que significa que só são visíveis dentro do bloco onde foram declaradas.
+
+```javascript
+let nome = "Alice";
+```
+
+### `const`
+
+`const` é usado para declarar variáveis cujo valor não deve ser alterado após a atribuição inicial. As variáveis declaradas com `const` também têm escopo de bloco.
+
+```javascript
+const PI = 3.1416;
+```
+
+## Tipos de Dados
+
+JavaScript é uma linguagem de tipagem dinâmica, o que significa que você não precisa declarar o tipo de uma variável ao criá-la; o tipo será automaticamente determinado quando você atribuir um valor a ela. Alguns dos tipos de dados em JavaScript incluem:
+
+### `number`
+
+Usado para representar números inteiros ou de ponto flutuante.
+
+```javascript
+let idade = 30;
+let altura = 1.75;
+```
+
+### `string`
+
+Usado para representar texto. As strings devem estar entre aspas simples ou duplas.
+
+```javascript
+let nome = "Maria";
+let saudacao = 'Olá, mundo!';
+```
+
+### `boolean`
+
+Usado para representar valores verdadeiro (`true`) ou falso (`false`).
+
+```javascript
+let diaEnsolarado = true;
+let estaChovendo = false;
+```
+
+### `array`
+
+Usado para representar uma coleção ordenada de valores, que podem ser de diferentes tipos.
+
+```javascript
+let frutas = ["maçã", "banana", "laranja"];
+```
+
+### `object`
+
+Usado para representar um objeto que pode conter propriedades e métodos.
+
+```javascript
+let pessoa = {
+  nome: "João",
+  idade: 25,
+  sexo: "masculino"
+};
+```
+
+## Conclusão
+
+Variáveis em JavaScript são usadas para armazenar diferentes tipos de dados e são declaradas usando `var`, `let` ou `const`. É importante escolher a forma correta de declarar variáveis com base nos requisitos do seu programa. Compreender os tipos de dados em JavaScript é fundamental para escrever código eficaz e robusto.
+
+**3 - O readline-sync em JavaScript:**
 
 O `readline-sync` é uma biblioteca em JavaScript que permite que você obtenha entrada do usuário no console de forma síncrona. Isso significa que seu programa irá pausar e esperar que o usuário insira dados antes de continuar. É muito útil para criar programas interativos no console.
 
