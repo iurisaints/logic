@@ -38,7 +38,6 @@ Os jogadores assumem o papel de detetives e devem descobrir quem roubou o códig
 
 ## Regras
 
-Claro! Vamos elaborar um conjunto mais detalhado de regras para tornar o jogo mais interessante e desafiador:
 
 1. **Preparação:**
    - Reúna de 3 a 6 jogadores em um ambiente confortável.
@@ -84,7 +83,6 @@ Claro! Vamos elaborar um conjunto mais detalhado de regras para tornar o jogo ma
 
 ## Starter Kit
 
-Claro! Aqui estão três histórias base para o jogo "Detetive Programador - Quem Roubou o Código?":
 
 ### História Base 1: O Concurso de Programação
 **Cenário:** Em uma universidade renomada, estava acontecendo um concurso de programação entre os alunos. O código-fonte do sistema de avaliação foi roubado na véspera do evento, e o concurso está em risco de ser cancelado.
