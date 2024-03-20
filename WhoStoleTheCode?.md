@@ -45,14 +45,15 @@ Os jogadores assumem o papel de detetives e devem descobrir quem roubou o códig
    - O moderador deve preparar uma lista de pistas relacionadas ao roubo do código.
 
 2. **Objetivo:**
-   - Os jogadores devem trabalhar juntos para descobrir quem roubou o código, usando apenas pistas verbais e conversas.
+   - Os jogadores devem trabalhar juntos para descobrir quem é o impostor, usando apenas pistas verbais e conversas.
+   - O moderador deve escolher de forma sucinta, retirando um por um para fora do local do jogo e delegando se ele é detetive ou impostor.
 
 3. **Revelação de Pistas:**
    - O moderador começa o jogo revelando uma pista sobre o roubo do código.
-   - Cada jogador tem a oportunidade de fazer perguntas para esclarecer a pista ou apresentar suas teorias.
+   - Cada jogador tem a oportunidade de fazer perguntas para esclarecer a pista ou apresentar suas teorias de forma horária.
 
 4. **Limites de Pistas:**
-   - O jogo pode ter um número limitado de pistas, por exemplo, 5 pistas.
+   - O jogo pode ter um número limitado de 5 pistas.
    - O moderador pode decidir revelar todas as pistas de uma vez ou revelá-las uma de cada vez, conforme o jogo avança.
 
 5. **Investigação:**
@@ -61,15 +62,16 @@ Os jogadores assumem o papel de detetives e devem descobrir quem roubou o códig
 
 6. **Acusações:**
    - Os jogadores podem fazer uma acusação a qualquer momento, desde que tenham evidências suficientes para apoiá-la.
+   - As acusações serão feitas com uma frase lógica como "se algo aconteceu, então..." ou "para que isso aconteça isso deve acontecer".
    - Se uma acusação for feita, o moderador deve confirmar ou negar se está correta.
 
 7. **Limite de Acusações:**
-   - Os jogadores têm um número limitado de chances para fazer acusações, por exemplo, 3 acusações.
-   - Se os jogadores fizerem 3 acusações erradas, o culpado escapa e eles perdem o jogo.
+   - Os jogadores têm 3 chances para fazer acusações.
+   - Se os jogadores fizerem 3 acusações erradas, o impostor escapa e eles perdem o jogo.
 
 8. **Final do Jogo:**
    - O jogo termina quando os jogadores fazem uma acusação correta ou quando esgotam todas as pistas e chances de fazer acusações.
-   - Se os jogadores fizerem uma acusação correta, eles vencem o jogo.
+   - Se os jogadores fizerem uma acusação correta, eles vencem o jogo, caso contrário eles perderão e o vencedor será o impostor.
 
 ### Variações e Adições:
 
@@ -83,6 +85,8 @@ Os jogadores assumem o papel de detetives e devem descobrir quem roubou o códig
 
 ## Starter Kit
 
+### Observação:
+As pistas podem ser ditas através de lógica como "Se algo aconteceu então temos tal pista".
 
 ### História Base 1: O Concurso de Programação
 **Cenário:** Em uma universidade renomada, estava acontecendo um concurso de programação entre os alunos. O código-fonte do sistema de avaliação foi roubado na véspera do evento, e o concurso está em risco de ser cancelado.
