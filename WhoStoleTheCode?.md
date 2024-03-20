@@ -55,6 +55,8 @@ Os jogadores assumem o papel de detetives e devem descobrir quem roubou o códig
 4. **Limites de Pistas:**
    - O jogo pode ter um número limitado de 5 pistas.
    - O moderador pode decidir revelar todas as pistas de uma vez ou revelá-las uma de cada vez, conforme o jogo avança.
+   - Caso seja optado por 1 pista por rodada o jogo terá até 5 rodadas.
+   - Caso seja optado por 5 pistas o jogo terá 3 rodadas de perguntas e teorias.
 
 5. **Investigação:**
    - Durante as conversas, os jogadores podem fazer perguntas uns aos outros para obter mais informações sobre suas habilidades de programação, onde estavam no momento do roubo, etc.
