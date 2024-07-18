@@ -58,4 +58,3 @@ console.log(`O clima é ${clima}`);
 ```
 Neste exemplo, o operador ternário `? :` é usado para atribuir o valor da variável `clima` baseado na condição `temperatura > 30`.
 
-Esses são alguns exemplos básicos de como você pode usar operadores em expressões condicionais em JavaScript. Eles ajudam a construir condições mais complexas e expressivas para controlar o fluxo do seu programa de maneira eficiente.
